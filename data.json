@@ -1,0 +1,38 @@
+{
+	"details":{
+		"name":"Sanjana",
+		"image":"propic.png",
+		"phone":"9999999929",
+		"email":"sanjanarokkam7@gmail.com"
+
+	},
+	"education":[
+		{
+			"course":"B.Tech(CSE)",
+			"college":"MIC college of technology",
+			"percentage":"83%"
+		},
+		{
+			"course":"intermediate(MPC)",
+			"college":"Sri Chaitanya junior college",
+			"percentage":"95%"
+		},
+		{
+			"course":"SSC",
+			"school":"Sri Chaitanya school",
+			"percentage":"98%"
+		}
+	],
+	"skills":[
+		{
+			"title":"Programming languages",
+			"output":["c","c++","java","python"
+			]
+		},
+		{
+			"title":"Operating Syatems",
+			"output":["windows","linux","MAC"
+					]
+		}
+	]
+}
